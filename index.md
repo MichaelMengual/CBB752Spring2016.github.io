@@ -85,6 +85,7 @@ Python:
 R:https://github.com/jqz752/cbb752_2.2.git
 
 References:
+
 1) Pimentel, H. (2015). What the FPKM? A review of RNA-Seq expression units. Retrieved from https://haroldpimentel.wordpress.com/2014/05/08/what-the-fpkm-a-review-rna-seq-expression-units/
 
 2) Li, B., Ruotti, V., Stewart, R. M., Thomson, J. A., & Dewey, C. N. (2009). RNA-Seq gene expression estimation with read mapping uncertainty. Bioinformatics, 26(4), 493–500. http://doi.org/10.1093/bioinformatics/btp692
